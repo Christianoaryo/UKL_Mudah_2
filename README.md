@@ -6,6 +6,7 @@
 
 3.Jika hasil bilangan % 2 kurang dari atau sama dengan 0, maka bilangan dianggap genap.
   Jika tidak, maka bilangan dianggap ganjil.
+  
 
   <img width="293" height="234" alt="image" src="https://github.com/user-attachments/assets/97698c59-bc88-4110-a654-37dcfe17bdae" />
 
